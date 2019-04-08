@@ -1,0 +1,28 @@
+!SESSION 2019-04-08 13:15:25.943 -----------------------------------------------
+eclipse.buildId=4.7.0.I20160915-0230
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file /home/ramesh/workspace/Emergency_PickupDrop_get/.metadata/.bak_0.log
+Created Time: 2019-04-08 13:16:36.508
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-08 13:16:36.508
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-08 13:16:36.562
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2019-04-08 13:16:42.903
+!MESSAGE Starting the AWS toolkit core plugin...
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2019-04-08 13:16:46.501
+!MESSAGE Monitoring content of /home/ramesh/.aws/credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2019-04-08 13:16:48.328
+!MESSAGE AWS toolkit core plugin initialized after 5420 milliseconds.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2019-04-08 13:16:48.884
+!MESSAGE Found valid identity id cache us-east-1:92762354-19c0-4aea-923e-f05f3da73a59
